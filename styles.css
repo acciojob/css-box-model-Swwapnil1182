@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-#box{
+.box{
 	background-color:lightblue;
 	width:300px;
 	border:15px solid blue;
